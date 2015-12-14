@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PrimerAPP</string>
+
+    <string name="hello_world">HOLA BIENVENIDOS AL CURSO DE ANDROID</string>
+    <string name="action_settings">Salir</string>
+
+    <string name="Botones">IR A OTRA ACTIVIDAD</string>
+    <string name="title_activity_otra_clase">OtraClase</string>
+    <string name="title_activity_otra_actividad">OtraActividad</string>
+
+
+</resources>
